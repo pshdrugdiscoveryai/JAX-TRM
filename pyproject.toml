@@ -1,0 +1,10 @@
+[project]
+name = "jax-trm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flax>=0.12.2",
+    "jax>=0.8.2",
+]
